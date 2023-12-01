@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701464180 source:c:\users\yanch\documents\coding\calculator\main.cpp
+	<iostream>
+	<cmath>
+
